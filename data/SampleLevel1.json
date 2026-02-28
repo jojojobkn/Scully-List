@@ -1,17 +1,12 @@
 {
     "id": 60978746,
-    "Nombre": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "verifier": "score",
+    "name": "The Golden",
+    "author": "Solo_Creator",
+    "creators": [],
+    "verifier": "scorer",
     "verification": "https://www.youtube.com/watch?v=hQFe_nuQMhQ&list=PLT87W6_jFbmSvGibsMCc1oMSEkrqbSXwJ&index=26",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
+    "percentToQualify": "100",
+    
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
-        }
     ]
 }
