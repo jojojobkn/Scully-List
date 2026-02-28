@@ -2,9 +2,11 @@
     "id": 60978746,
     "name": "The Golden",
     "author": "Bo",
+    "creators": [Bo],
     "verifier": "score",
-    "verification": "https://www.youtube.com/watch?v=hQFe_nuQMhQ&list=PLT87W6_jFbmSvGibsMCc1oMSEkrqbSXwJ&index=26",
-    "percentToQualify": "any",
+    "verification": "https://youtu.be/hQFe_nuQMhQ",
+    "percentToQualify": "100",
+    "password": "PenePeneEscrotoPene",
     "records": [
     ]
 }
